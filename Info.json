@@ -1,0 +1,11 @@
+{
+  "Id": "ACAffectsDR",
+  "DisplayName": "ACAffectsDR",
+  "Author": "bapp",
+  "Version": "0.0.1",
+  "ManagerVersion": "0.21.3",
+  "Requirements": [],
+  "AssemblyName": "ACAffectsDR.dll",
+  "EntryMethod": "ACAffectsDR.Main.Load",
+  "LoadAfter": [ "MewsiferConsole.Mod" ]
+}
